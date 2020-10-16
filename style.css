@@ -10,5 +10,11 @@ body{
 	}
 }
 .bg-nya{
-	background-color: #2b5d7d;
+	background-color: #3899CD;
+}
+.border-nya{
+	border-color: #3899CD;
+}
+.text-nya{
+	color: #3899CD;
 }
