@@ -18,3 +18,9 @@ body{
 .text-nya{
 	color: #3899CD;
 }
+.btn-link{
+	transition: 0.5s ease;
+}
+.btn-link:hover{
+	filter: brightness(80%);
+}
