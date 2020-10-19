@@ -24,3 +24,33 @@ body{
 .btn-link:hover{
 	filter: brightness(80%);
 }
+
+.btn-xl {
+    padding: 40px 40px;
+    font-size: 20px;
+    border-radius: 10px;
+    background-color: #3899CD;
+    transition: 1s ease;
+}
+.btn-sm {
+    padding: 10px 20px;
+    font-size: 20px;
+    border-radius: 10px;
+    background-color: #3899CD;
+    transition: 1s ease;
+    color: white;
+}
+.btn-sm:hover {
+    filter: brightness(80%);
+    color: white;
+}
+.btn-xl:hover {
+	filter: brightness(80%);
+}
+.sidebar-outer {
+    position: relative;
+}
+.badge-nya{
+	 background-color: #3899CD;
+	 color: white;
+}
