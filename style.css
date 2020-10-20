@@ -5,7 +5,7 @@ body{
 	font-family: 'Roboto';
 }
 @media (max-width: 768px) {
-	body{
+	.body{
 		margin-top: 50px;
 	}
 }
@@ -31,6 +31,14 @@ body{
     border-radius: 10px;
     background-color: #3899CD;
     transition: 1s ease;
+}
+@media (max-width: 768px) {
+    .body{
+        margin-top: 50px;
+    }
+    .btn-xl{
+        padding: 2em 0.8em;
+    }
 }
 .btn-sm {
     padding: 10px 20px;
